@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DockerDotNetPostgresDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e24acb4b05d818b7db00f19ffcd9e8849584d359")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35ebd54ae37acd34f570684a972763e6d3cd4d8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DockerDotNetPostgresDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DockerDotNetPostgresDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
