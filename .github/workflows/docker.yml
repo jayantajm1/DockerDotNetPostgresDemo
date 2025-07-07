@@ -7,6 +7,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: docker-env # 👈 Add this line to access the environment secrets
 
     steps:
       - name: Checkout code
